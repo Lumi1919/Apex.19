@@ -1,1 +1,0 @@
-web: gunicorn Apex.wsgi:app
