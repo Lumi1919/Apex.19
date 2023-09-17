@@ -1,1 +1,1 @@
-web: gunicorn Apex.wsgi --log-file -
+web: gunicorn Apex.wsgi:app
